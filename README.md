@@ -37,6 +37,8 @@ is_holiday & is_weekend: Indicators for holidays and weekends
 season: Meteorological seasons
 
 
+In the project's Jupyter Notebook (ipynb) file, I've outlined the entire process step-by-step, explaining each aspect of the data analysis and model-building process. This detailed walkthrough aims to make the methodology transparent and accessible for anyone interested in urban mobility and data science.
+
 # The data is acquired from 3 sources:
 
 Https://cycling.data.tfl.gov.uk/ 'Contains OS data © Crown copyright and database rights 2016' and Geomni UK Map data © and database rights [2019] 'Powered by TfL Open Data'
